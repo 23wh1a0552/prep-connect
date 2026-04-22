@@ -128,8 +128,8 @@ http://localhost:3000
 
 ## Future Enhancements
 
-* Role-based access (Student / Alumni)
-* Answer doubts feature
+* Role-based access (Student / Alumni) ✅
+* Answer doubts feature ✅
 * Roadmap & resource recommendations
 * Profile & progress tracking
 * UI/UX improvements
